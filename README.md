@@ -7,5 +7,5 @@
 <ul>
   <li>Make a HTTP server</li>
   <li>Write the Luhn algorithm</li>
-  <li>Send response with the result</li>
+  <li>Send HTTP response with the result</li>
 </ul>
