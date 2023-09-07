@@ -1,4 +1,4 @@
-#credit card validator microservice
+# credit card validator microservice
 
 <p>This repository contains a microservice developed in go that implement a credit card validator.</p>
 <p>The microservice exposes a REST API sever, that read the number card from json body in http request and execute the Luhn algorithm and send true or false as response</p>
